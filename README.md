@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FanaticFauz
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning AI automation, vibe coding, prompt engineering, UGC content creation
+- 💞️ I’m looking to collaborate on anything related AI and Side hustle
 - 📫 How to reach me fauz.pervez911@gmail.com
 
 <!---
